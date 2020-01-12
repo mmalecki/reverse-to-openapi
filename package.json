@@ -1,0 +1,16 @@
+{
+  "name": "reverse-to-openapi",
+  "version": "0.0.0",
+  "description": "Convert a `routes` instance into a OpenAPI v3 `paths` definition",
+  "main": "reverse-to-openapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reverse",
+    "openapi",
+    "converter"
+  ],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "MIT"
+}
